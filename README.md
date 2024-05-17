@@ -31,6 +31,6 @@ Passos necessários para implementação:
 7. Ligue a conexão com a porta 1883 através do MQTTx
 8. O projeto está pronto para ser utilizado
 
-Documentação mosquitto: https://mosquitto.org/documentation/
-Documentação arduino: https://docs.arduino.cc/
-Documentação placa ESP8266: https://arduino-esp8266.readthedocs.io/en/latest/
+* Documentação mosquitto: https://mosquitto.org/documentation/
+* Documentação arduino: https://docs.arduino.cc/
+* Documentação placa ESP8266: https://arduino-esp8266.readthedocs.io/en/latest/
